@@ -36,18 +36,18 @@ Note: If you are not interested in allowing All Traffic to your EC2 instance 1. 
 
 After you login to Jenkins, - Run the command to copy the Jenkins Admin Password - sudo cat /var/lib/jenkins/secrets/initialAdminPassword - Enter the Administrator password
 
-Screenshot 2023-02-01 at 10 56 25 AM
+
 
 Click on Install suggested plugins
-Screenshot 2023-02-01 at 10 58 40 AM
+
 
 Wait for the Jenkins to Install suggested plugins
 
-Screenshot 2023-02-01 at 10 59 31 AM
+
 
 Create First Admin User or Skip the step [If you want to use this Jenkins instance for future use-cases as well, better to create admin user]
 
-Screenshot 2023-02-01 at 11 02 09 AM
+
 
 Jenkins Installation is Successful. You can now starting using the Jenkins
 
